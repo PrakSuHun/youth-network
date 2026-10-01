@@ -27,11 +27,11 @@
         <p>AI를 활용해 창업 아이템을 세상에 알릴 수 있는 <strong>홍보 웹사이트</strong>를 기획하고 제작했습니다.</p>
       </article>
     </div>
-    <ol class="credit-steps" aria-label="협업 과정">
-      <li><b>05월</b>예비창업팀과 대학생 매칭</li>
-      <li><b>06월</b>창업 아이템 홍보 웹사이트 기획</li>
-      <li><b>07월</b>웹사이트 완성 · 게시 및 홍보</li>
-    </ol>
+    <div class="credit-steps" role="list" aria-label="협업 과정">
+      <p role="listitem"><b>05월</b>예비창업팀과 대학생 매칭</p>
+      <p role="listitem"><b>06월</b>창업 아이템 홍보 웹사이트 기획</p>
+      <p role="listitem"><b>07월</b>웹사이트 완성 · 게시 및 홍보</p>
+    </div>
     <p class="credit-thanks">청년이 청년을 돕고, 아이디어가 실제 결과물로 이어질 수 있었던 것은 <strong>대전청년내일재단</strong>의 든든한 지원 덕분입니다. 대전 청년들의 도전을 응원해 주셔서 감사합니다.</p>
     <div class="credit-actions">
       <label><input type="checkbox" class="credit-hide-today"> 오늘 하루 보지 않기</label>

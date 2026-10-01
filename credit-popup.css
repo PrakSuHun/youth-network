@@ -18,9 +18,9 @@
 .credit-team p{font-size:13px;line-height:1.7}
 .credit-x{align-self:center;font-size:22px;font-weight:300;color:#9aa6b6}
 .credit-steps{display:flex;list-style:none;margin:0 0 24px;padding:0;border-top:1px solid var(--line)}
-.credit-steps li{flex:1;padding:14px 10px 0 0;font-size:12.5px;line-height:1.55;color:var(--muted)}
-.credit-steps li+li{padding-left:12px;border-left:1px solid var(--line)}
-.credit-steps b{display:block;font-size:11px;letter-spacing:.06em;color:#3a9a8a}
+.credit-steps p{flex:1;padding:14px 10px 0 0;font-size:12.5px;line-height:1.55;color:var(--muted)}
+.credit-steps p+p{padding-left:12px;border-left:1px solid var(--line)}
+.credit-steps b{line-height:1.6;display:block;font-size:11px;letter-spacing:.06em;color:#3a9a8a}
 .credit-thanks{padding:16px 18px;border-radius:14px;background:#f1f8f3;font-size:14px;line-height:1.75;color:#24493f}
 .credit-actions{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-top:24px;flex-wrap:wrap}
 .credit-actions label{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted);cursor:pointer}
@@ -30,4 +30,7 @@
 .credit-footer-link{display:inline-flex;align-items:center;gap:12px;margin-top:10px;padding:0;border:0;background:none;font-size:12px;color:var(--muted);text-align:left}
 .credit-footer-link img{height:22px;width:auto}
 .credit-footer-link:hover{color:var(--ink)}
-@media(max-width:600px){.credit-backdrop{padding:12px}.credit-head{padding:26px 22px 20px}.credit-body{padding:22px 22px 26px}.credit-teams{grid-template-columns:1fr}.credit-x{justify-self:center;line-height:1}.credit-steps{flex-direction:column}.credit-steps li,.credit-steps li+li{padding:10px 0;border-left:0;border-bottom:1px solid var(--line)}.credit-actions .button{width:100%}}
+@media(max-width:600px){.credit-backdrop{padding:12px}.credit-head{padding:26px 22px 20px}.credit-body{padding:22px 22px 26px}.credit-teams{grid-template-columns:1fr}.credit-x{justify-self:center;line-height:1}.credit-steps{flex-direction:column}.credit-steps p,.credit-steps p+p{padding:10px 0;border-left:0;border-bottom:1px solid var(--line)}.credit-actions .button{width:100%}}
+.credit-steps p{line-height:1.6;overflow:visible}
+.credit-actions label{white-space:nowrap}
+.credit-actions input[type=checkbox]{width:18px;height:18px;padding:0;margin:0;flex:none;border:1px solid #b8c2cf;accent-color:#123f3b}
