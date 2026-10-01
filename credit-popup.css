@@ -1,0 +1,33 @@
+.credit-backdrop{position:fixed;inset:0;z-index:200;display:flex;align-items:center;justify-content:center;padding:24px;background:rgba(9,26,61,.55);backdrop-filter:blur(6px);opacity:0;transition:opacity .3s}
+.credit-backdrop.is-open{opacity:1}
+.credit-dialog{position:relative;width:100%;max-width:620px;max-height:calc(100dvh - 48px);overflow-y:auto;background:#fff;border-radius:24px;box-shadow:0 30px 80px rgba(9,26,61,.35);transform:translateY(18px) scale(.98);transition:transform .35s cubic-bezier(.2,.8,.2,1)}
+.credit-backdrop.is-open .credit-dialog{transform:none}
+.credit-head{padding:34px 38px 26px;background:linear-gradient(120deg,#eaf6ee 0%,#e3f3f6 55%,#eef6e2 100%);border-bottom:1px solid #dbe9e2}
+.credit-head img{width:min(300px,78%);height:auto}
+.credit-badge{display:inline-block;margin-top:22px;padding:6px 13px;border-radius:100px;background:#123f3b;color:#fff;font-size:12px;font-weight:650;letter-spacing:.02em}
+.credit-head h2{margin-top:14px;font-size:clamp(23px,3.6vw,30px);font-weight:780;line-height:1.35;color:#123f3b}
+.credit-head h2 em{font-style:normal;background:linear-gradient(transparent 62%,#a6dca0 62%)}
+.credit-body{padding:28px 38px 32px}
+.credit-lead{font-size:15.5px;line-height:1.85;color:#33435c}
+.credit-lead strong{color:var(--ink)}
+.credit-teams{display:grid;grid-template-columns:1fr auto 1fr;align-items:stretch;gap:12px;margin:24px 0}
+.credit-team{padding:18px;border:1px solid var(--line);border-radius:16px;background:#fafbfc}
+.credit-team .role{font-size:11px;font-weight:650;letter-spacing:.08em;color:#3a9a8a}
+.credit-team h3{margin:6px 0 8px;font-size:18px}
+.credit-team h3 img{height:20px;width:auto;margin-top:3px}
+.credit-team p{font-size:13px;line-height:1.7}
+.credit-x{align-self:center;font-size:22px;font-weight:300;color:#9aa6b6}
+.credit-steps{display:flex;list-style:none;margin:0 0 24px;padding:0;border-top:1px solid var(--line)}
+.credit-steps li{flex:1;padding:14px 10px 0 0;font-size:12.5px;line-height:1.55;color:var(--muted)}
+.credit-steps li+li{padding-left:12px;border-left:1px solid var(--line)}
+.credit-steps b{display:block;font-size:11px;letter-spacing:.06em;color:#3a9a8a}
+.credit-thanks{padding:16px 18px;border-radius:14px;background:#f1f8f3;font-size:14px;line-height:1.75;color:#24493f}
+.credit-actions{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-top:24px;flex-wrap:wrap}
+.credit-actions label{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted);cursor:pointer}
+.credit-actions .button{min-height:46px}
+.credit-close{position:absolute;top:14px;right:14px;width:40px;height:40px;border:0;border-radius:50%;background:#ffffffcc;font-size:22px;line-height:1;color:#123f3b}
+.credit-close:hover{background:#fff}
+.credit-footer-link{display:inline-flex;align-items:center;gap:12px;margin-top:10px;padding:0;border:0;background:none;font-size:12px;color:var(--muted);text-align:left}
+.credit-footer-link img{height:22px;width:auto}
+.credit-footer-link:hover{color:var(--ink)}
+@media(max-width:600px){.credit-backdrop{padding:12px}.credit-head{padding:26px 22px 20px}.credit-body{padding:22px 22px 26px}.credit-teams{grid-template-columns:1fr}.credit-x{justify-self:center;line-height:1}.credit-steps{flex-direction:column}.credit-steps li,.credit-steps li+li{padding:10px 0;border-left:0;border-bottom:1px solid var(--line)}.credit-actions .button{width:100%}}
