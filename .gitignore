@@ -8,3 +8,4 @@ production/qa/
 # Downloaded high-resolution model sources; optimized runtime assets are in assets/models/.
 production/worker-source/
 production/rocketbox-tree.json
+.vercel
