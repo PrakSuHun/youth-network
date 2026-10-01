@@ -1,0 +1,68 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "name": "home-sensor-sculpture",
+      "placement": "index.html / 솔루션·기술 안내 카드",
+      "prompt": "Create a premium photographic asset for Safe-Lier, sophisticated Korean industrial safety brand. Landscape 1536x1024, photorealistic, pearl-white/navy/lime restrained palette, refined material detail and soft architectural daylight. No webpage, no overlaid typography or captions, no other company brands, no invented measurements or performance claims. Entirely new scene and composition, never duplicate a prior image. Development concept editorial, not documentary evidence. Use the reference ONLY to match the rounded black shoulder camera module. Do NOT reproduce the vest or phone. One single detached module standing on a low circular brushed aluminium pedestal, front lens visible, small lime LED, slim curved lime translucent acrylic sheet behind it. Studio still life, large tactile matte off-white background, controlled side light, composition centered for square card cropping, sculptural and quietly innovative. No textile mesh, no multiple units.",
+      "ref": true,
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-af01f059-bdc6-4992-b72a-d2e0d9158ec9.png",
+      "original": "assets/generated/home-sensor-sculpture.png",
+      "web": "assets/generated/home-sensor-sculpture.webp"
+    },
+    {
+      "name": "home-design-dialogue",
+      "placement": "index.html / 팀 소개 안내 카드",
+      "prompt": "Create a premium photographic asset for Safe-Lier, sophisticated Korean industrial safety brand. Landscape 1536x1024, photorealistic, pearl-white/navy/lime restrained palette, refined material detail and soft architectural daylight. No webpage, no overlaid typography or captions, no other company brands, no invented measurements or performance claims. Entirely new scene and composition, never duplicate a prior image. Development concept editorial, not documentary evidence. True overhead flat-lay view of a white design table: two anonymous people's hands entering from opposite edges, one holding a graphite pencil, another pointing at a fine hand-drawn safety vest design sketch on large white paper. A navy notebook, small lime material swatch and silver ruler. NO actual vest, no device product hero, no faces. Natural plausible hands and simple elegant composition. Sketch uses thin grey linework, no text or invented technical labels. New design collaboration concept for team introduction.",
+      "ref": false,
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-68b18d3e-d6a1-4e18-b1f2-6d41dc75bce7.png",
+      "original": "assets/generated/home-design-dialogue.png",
+      "web": "assets/generated/home-design-dialogue.webp"
+    },
+    {
+      "name": "home-partner-space",
+      "placement": "index.html / 투자·제휴 안내 카드",
+      "prompt": "Create a premium photographic asset for Safe-Lier, sophisticated Korean industrial safety brand. Landscape 1536x1024, photorealistic, pearl-white/navy/lime restrained palette, refined material detail and soft architectural daylight. No webpage, no overlaid typography or captions, no other company brands, no invented measurements or performance claims. Entirely new scene and composition, never duplicate a prior image. Development concept editorial, not documentary evidence. Editorial architectural photograph of a small luminous meeting alcove overlooking a modern industrial workshop through floor-to-ceiling glass. Two elegant navy upholstered chairs across a pale matte round table, a slim lime green folder and two clear water glasses on the table. No people, no safety vest, no phone, no helmet. Refined honest industrial B2B atmosphere, soft morning light, strong geometric composition and generous space. Not a luxury hotel and not a fake corporate logo.",
+      "ref": false,
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-88a69be3-a862-4d74-b096-d0a3294c6e87.png",
+      "original": "assets/generated/home-partner-space.png",
+      "web": "assets/generated/home-partner-space.webp"
+    },
+    {
+      "name": "validation-lane",
+      "placement": "solution.html / 개발·검증 계획 배너",
+      "prompt": "Create a premium photographic asset for Safe-Lier, sophisticated Korean industrial safety brand. Landscape 1536x1024, photorealistic, pearl-white/navy/lime restrained palette, refined material detail and soft architectural daylight. No webpage, no overlaid typography or captions, no other company brands, no invented measurements or performance claims. Entirely new scene and composition, never duplicate a prior image. Development concept editorial, not documentary evidence. Wide carefully composed safety validation environment: empty bright pale-grey industrial test aisle with subtle marked pedestrian path and small neutral floor markers, one anonymous technician on far RIGHT seen full-body three-quarter FRONT wearing white hardhat, navy clothes and a lime mesh vest with exactly two visible front shoulder camera pods (rear hidden). A forklift is PARKED far away in a separate bay, forks lowered, no danger. Technician checks a small tablet. Reference ONLY defines vest style; do not make a floating product. Camera views the whole airy space. LEFT HALF should be light empty wall and floor for website headline overlay. This is an imagined controlled testing scenario, not a actual customer workplace.",
+      "ref": true,
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-4b9eb429-23da-44be-9e4f-9a0e86dabd8b.png",
+      "original": "assets/generated/validation-lane.png",
+      "web": "assets/generated/validation-lane.webp"
+    },
+    {
+      "name": "team-evening-purpose",
+      "placement": "team.html / 브랜드 이야기",
+      "prompt": "Create a premium photographic asset for Safe-Lier, sophisticated Korean industrial safety brand. Landscape 1536x1024, photorealistic, pearl-white/navy/lime restrained palette, refined material detail and soft architectural daylight. No webpage, no overlaid typography or captions, no other company brands, no invented measurements or performance claims. Entirely new scene and composition, never duplicate a prior image. Development concept editorial, not documentary evidence. Use reference only for product identity. Cinematic but luminous early blue-hour exterior of a modest clean industrial building. One anonymous worker with white helmet and navy workwear, seen full body from behind walking toward a welcoming warm-lit doorway, placed LEFT of center. Wears lime safety vest with continuous solid BACK panel (NO zipper on back), silver reflective tape and exactly two small shoulder-mounted black sensor pods visible. Subtle green shoulder LED glows; reflective material catches the light. Wide architectural space, pale blue sky, elegant balance of warm window light and cool silver structure. No forklift, no interior factory, no head-and-shoulder closeup, no dangerous scene. Hopeful humane image about returning safely.",
+      "ref": true,
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-ff45caf4-9482-4656-b62a-7e17be7d62a3.png",
+      "original": "assets/generated/team-evening-purpose.png",
+      "web": "assets/generated/team-evening-purpose.webp"
+    },
+    {
+      "name": "faq-hands-on",
+      "placement": "faq.html / 제품 구성 안내",
+      "prompt": "Create a premium photographic asset for Safe-Lier, sophisticated Korean industrial safety brand. Landscape 1536x1024, photorealistic, pearl-white/navy/lime restrained palette, refined material detail and soft architectural daylight. No webpage, no overlaid typography or captions, no other company brands, no invented measurements or performance claims. Entirely new scene and composition, never duplicate a prior image. Development concept editorial, not documentary evidence. Reference only defines a single black sensor module design. Overhead close-up of a person's two realistic hands on a spotless pearl-white table: right hand holds ONE rounded black camera-distance module gently in palm to show its size, left hand holds a navy-trimmed smartphone with a minimal setup interface consisting of four small abstract direction icons arranged around a human silhouette. No text, no metrics, no forklift detection rectangle, no numbers. A small lime mesh swatch and silver reflective material at one edge. Gentle morning light. Instructional, approachable hands-on product setup feeling. No full vest, no plinth, no large black screen standing upright.",
+      "ref": true,
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-ac91f8a1-0855-45bc-a5a5-bb98ac57a4f6.png",
+      "original": "assets/generated/faq-hands-on.png",
+      "web": "assets/generated/faq-hands-on.webp"
+    },
+    {
+      "name": "contact-shared-next",
+      "placement": "contact.html / 페이지 하단",
+      "prompt": "Create a premium photographic asset for Safe-Lier, sophisticated Korean industrial safety brand. Landscape 1536x1024, photorealistic, pearl-white/navy/lime restrained palette, refined material detail and soft architectural daylight. No webpage, no overlaid typography or captions, no other company brands, no invented measurements or performance claims. Entirely new scene and composition, never duplicate a prior image. Development concept editorial, not documentary evidence. Intimate editorial close-up of a careful product handover: two people visible ONLY as navy-workwear forearms and neutral light grey work-gloved hands entering from left and right, one passing a single rounded black Safe-Lier sensor module to the other above a pristine white counter. Sensor lens and tiny vertical lime light visible. Small lime mesh material neatly on lower edge, distant light-filled industrial doorway as soft bokeh. No faces, no handshake, no full vest, no phone, no notebook, no helmet. Warm welcoming daylight and refined shallow depth of field. Simple realistic anatomy and a clear sense of starting a conversation through collaboration.",
+      "ref": true,
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-fcafd164-ec88-4a6e-93c5-0f63a10cbe15.png",
+      "original": "assets/generated/contact-shared-next.png",
+      "web": "assets/generated/contact-shared-next.webp"
+    }
+  ]
+}

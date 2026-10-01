@@ -1,0 +1,24 @@
+{
+  "mode": "built-in image_gen",
+  "stage": "third design review; image concepts",
+  "assets": [
+    {
+      "concept": "A",
+      "file": "a-pearl-precision.png",
+      "direction": "PEARL PRECISION",
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-f0d6f818-2fbe-4f4f-9d07-19fb465accd3.png"
+    },
+    {
+      "concept": "B",
+      "file": "b-human-standard.png",
+      "direction": "HUMAN STANDARD",
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-f089f8ff-d48a-4f91-a58b-95b63dce4e2a.png"
+    },
+    {
+      "concept": "C",
+      "file": "c-spatial-intelligence.png",
+      "direction": "SPATIAL INTELLIGENCE",
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-c2696335-64f2-498b-abec-6a75a1fb6c1c.png"
+    }
+  ]
+}

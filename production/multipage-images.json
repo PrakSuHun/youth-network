@@ -1,0 +1,62 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "name": "worker-field",
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-58d354f5-7234-40f5-86d0-bbee1b376b18.png",
+      "original": "assets/generated/worker-field.png",
+      "web": "assets/generated/worker-field.webp",
+      "prompt": "Use case: product-mockup. Reference image: preserve the exact Safe-Lier product design, fluorescent lime mesh, silver reflective tape, black trim and rounded black camera pods with single vertical lime indicator. Premium sophisticated pearl-white/navy/lime photographic art direction, refined natural materials, beautiful lighting. No website layout, no captions or overlaid text, no additional brands, no invented specifications or numeric readings. This is development concept imagery. Landscape 1536x1024. Editorial location photograph of a Korean industrial worker wearing this exact vest over navy workwear and white safety helmet, three-quarter rear side view, waist up on right half of composition, looking into a bright clean realistic manufacturing hall. One front shoulder and one rear shoulder camera visible, remaining pods hidden, no extra chest pods. Forklift distant in a separate marked vehicle lane, physically safe separation. Soft morning light, silver factory structure, authentic subtle scene rather than stock photo smile. Left half atmospheric light factory space. No readable factory branding.",
+      "correction": "Use case: precise-object-edit. Edit this worker photograph. Keep the worker, camera viewpoint, industrial factory, lighting, palette and shoulder sensor pods unchanged. Fix ONLY the back of the lime safety vest: this is seen from BEHIND, so REMOVE the zipper and V-shaped neckline entirely from the BACK. Back must be a continuous solid lime mesh panel, high rounded back neckline following the worker neck, with two straight silver reflective vertical strips and one horizontal silver waist band. Tiny black Safe-Lier brand centered on upper back. Keep black piping along outer edges only. No zipper or opening down back, no additional sensors. Photorealistic flawless premium product editorial. All other objects and composition identical."
+    },
+    {
+      "name": "sensor-kit",
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-68db5c5c-10ce-4391-b2a5-7f6cab96f06e.png",
+      "original": "assets/generated/sensor-kit.png",
+      "web": "assets/generated/sensor-kit.webp",
+      "prompt": "Use case: product-mockup. Reference image: preserve the exact Safe-Lier product design, fluorescent lime mesh, silver reflective tape, black trim and rounded black camera pods with single vertical lime indicator. Premium sophisticated pearl-white/navy/lime photographic art direction, refined natural materials, beautiful lighting. No website layout, no captions or overlaid text, no additional brands, no invented specifications or numeric readings. This is development concept imagery. Landscape 1536x1024. Precise premium studio still life of EXACTLY FOUR identical detached black Safe-Lier camera-distance-sensor modules neatly in a 2-by-2 diagonal arrangement on a pearl-white plinth, each with one camera lens and slim vertical lime LED. Folded corner of lime mesh vest and silver reflective tape at lower right. Small physical Safe-Lier wordmarks. Photorealistic product collection, top-down 45 degree camera, soft sculptural shadows, elegant generous negative space. No phone, no additional modules, no exploded invented electronics."
+    },
+    {
+      "name": "phone-ai",
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-17dd3ccb-57d8-423c-b314-e8e778967be0.png",
+      "original": "assets/generated/phone-ai.png",
+      "web": "assets/generated/phone-ai.webp",
+      "prompt": "Use case: product-mockup. Reference image: preserve the exact Safe-Lier product design, fluorescent lime mesh, silver reflective tape, black trim and rounded black camera pods with single vertical lime indicator. Premium sophisticated pearl-white/navy/lime photographic art direction, refined natural materials, beautiful lighting. No website layout, no captions or overlaid text, no additional brands, no invented specifications or numeric readings. This is development concept imagery. Landscape 1536x1024. Premium closeup of a black smartphone propped on a pearl-white studio table, screen facing viewer at slight three-quarter angle, the Safe-Lier vest softly defocused behind it. Phone screen: dark navy interface, one forklift image with amber bounding rectangle, simple human proximity icon and warning triangle, small Safe-Lier at top. No fake metrics, scores, distance or numbers. No external holograms or server/cloud graphics. Sophisticated restrained lime accent, physical glass reflections. Phone entirely visible, dominant central subject."
+    },
+    {
+      "name": "vest-rear",
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-a86fa1c5-a25b-4b58-81b2-1d7a93ceeee0.png",
+      "original": "assets/generated/vest-rear.png",
+      "web": "assets/generated/vest-rear.webp",
+      "prompt": "Use case: product-mockup. Reference image: preserve the exact Safe-Lier product design, fluorescent lime mesh, silver reflective tape, black trim and rounded black camera pods with single vertical lime indicator. Premium sophisticated pearl-white/navy/lime photographic art direction, refined natural materials, beautiful lighting. No website layout, no captions or overlaid text, no additional brands, no invented specifications or numeric readings. This is development concept imagery. Landscape 1536x1024. Photorealistic studio back three-quarter view of same Safe-Lier lime mesh vest floating just above pearl-white floor, silver horizontal reflective tape, black trim and neck. Exactly two camera pods on BACK shoulders visible, the two FRONT pods are hidden or naturally occluded; no chest/waist pods. Preserve product construction and consistent scale of rounded black pods. Small physically printed Safe-Lier wordmark on upper back. Fine lime orbital arc behind the vest to suggest all-around coverage. Entire product visible, beautiful cloth drape and tactile mesh."
+    },
+    {
+      "name": "led-detail",
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-d23d55ce-01e1-4d40-bbb2-07324dbb8b5c.png",
+      "original": "assets/generated/led-detail.png",
+      "web": "assets/generated/led-detail.webp",
+      "prompt": "Use case: product-mockup. Reference image: preserve the exact Safe-Lier product design, fluorescent lime mesh, silver reflective tape, black trim and rounded black camera pods with single vertical lime indicator. Premium sophisticated pearl-white/navy/lime photographic art direction, refined natural materials, beautiful lighting. No website layout, no captions or overlaid text, no additional brands, no invented specifications or numeric readings. This is development concept imagery. Landscape 1536x1024. Extreme cinematic macro photograph of a single black shoulder sensor worn on the lime vest. Camera lens and vertical green LED glowing with believable mild light spill onto lime textile, no magical holograms. Human navy sleeve at edge out of focus, head entirely out of frame. Silver reflective tape, tactile mesh weave, slightly dusk-toned navy background but product brightly readable. Premium editorial hardware detail."
+    },
+    {
+      "name": "test-bench",
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-b582b08b-719b-459a-a7fb-ff8244082383.png",
+      "original": "assets/generated/test-bench.png",
+      "web": "assets/generated/test-bench.webp",
+      "prompt": "Use case: product-mockup. Reference image: preserve the exact Safe-Lier product design, fluorescent lime mesh, silver reflective tape, black trim and rounded black camera pods with single vertical lime indicator. Premium sophisticated pearl-white/navy/lime photographic art direction, refined natural materials, beautiful lighting. No website layout, no captions or overlaid text, no additional brands, no invented specifications or numeric readings. This is development concept imagery. Landscape 1536x1024. Airy meticulous product development studio tabletop, hands of an anonymous engineer gently adjusting one black shoulder sensor on the same folded lime vest. A second detached black sensor, an ordinary small precision screwdriver, a laptop with deliberately defocused nonreadable screen, and a paper with very light pencil sketches. No invented certification labels, no fake team identities, no logos beyond Safe-Lier on vest. Soft window light across white desk, silver/navy palette with lime accent. Wide editorial composition, relaxed realistic anatomy."
+    },
+    {
+      "name": "factory-wide",
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-ca323f79-b679-4997-8c0b-0decb0161991.png",
+      "original": "assets/generated/factory-wide.png",
+      "web": "assets/generated/factory-wide.webp",
+      "prompt": "Use case: product-mockup. Reference image: preserve the exact Safe-Lier product design, fluorescent lime mesh, silver reflective tape, black trim and rounded black camera pods with single vertical lime indicator. Premium sophisticated pearl-white/navy/lime photographic art direction, refined natural materials, beautiful lighting. No website layout, no captions or overlaid text, no additional brands, no invented specifications or numeric readings. This is development concept imagery. Landscape 1536x1024. Wide architectural editorial photo of a contemporary modest manufacturing facility interior, clearly marked pedestrian aisle and separate forklift lane, high white trusses, pale silver machines, diffused morning light. A very small worker wearing lime vest and white hardhat far in distance, no recognizable person. Floor lines create elegant strong vanishing point. Bright trustworthy realistic industry, no dramatic smoke, no danger, no company logos or lettering. Site environment concept only."
+    },
+    {
+      "name": "partnership-table",
+      "source": "/Users/suhun/.codex-orca/generated_images/01a0f448-b34b-7f92-b34e-b5a520abf948/exec-775085db-de24-4c12-810c-25c48ec80530.png",
+      "original": "assets/generated/partnership-table.png",
+      "web": "assets/generated/partnership-table.webp",
+      "prompt": "Use case: product-mockup. Reference image: preserve the exact Safe-Lier product design, fluorescent lime mesh, silver reflective tape, black trim and rounded black camera pods with single vertical lime indicator. Premium sophisticated pearl-white/navy/lime photographic art direction, refined natural materials, beautiful lighting. No website layout, no captions or overlaid text, no additional brands, no invented specifications or numeric readings. This is development concept imagery. Landscape 1536x1024. High-end editorial product still life for a partnership page. The same lime Safe-Lier vest neatly folded with two visible black shoulder pods on a bright pearl-white meeting table, beside a navy closed notebook, silver pen, a white helmet and black smartphone laid screen-up showing simple forklift outline. Large factory windows out of focus behind, warm natural morning light. No people, no handshake cliches, no readable documents, no fabricated companies. Balanced restrained asymmetric composition, material richness."
+    }
+  ]
+}

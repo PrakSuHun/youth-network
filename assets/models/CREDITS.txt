@@ -1,0 +1,6 @@
+Construction_Male_08 — Microsoft Rocketbox
+https://github.com/microsoft/Microsoft-Rocketbox
+Source: Assets/Avatars/Professions/Construction_Male_08
+License: MIT (see ROCKETBOX-LICENSE.txt)
+Textures converted from TGA to WebP at up to 1024px.
+Website adds a relaxed arm pose and illustrative shoulder sensors.
